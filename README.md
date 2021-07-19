@@ -15,4 +15,4 @@
 # proffy-agilizei
 
 ### Link do teste no Dashboard do Cypress: 
-https://dashboard.cypress.io/projects/jytbqo/runs/1
+https://dashboard.cypress.io/projects/ye7uxn/runs1
