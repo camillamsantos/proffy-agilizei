@@ -8,6 +8,7 @@ larguras.forEach(largura => {
         beforeEach(() => {
             cy.visit('/');
             cy.viewport(largura, 900)
+            cy.log('Largura: ', largura)
         });
 
         it('Navegar para o cadastro de aulas', () => {
